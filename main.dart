@@ -3,4 +3,5 @@ void main() {
   print('A');
   print('B');
   print('D');
+  print('featureB');
 }
